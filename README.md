@@ -1,4 +1,4 @@
-# Painel de Acompanhamento de Vendas - Google Looker Studio
+# 📊 Painel de Acompanhamento de Vendas - Google Looker Studio
 
 ## Descrição do Projeto
 
