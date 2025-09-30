@@ -1,0 +1,201 @@
+data_venda,nome_cliente,estado,nome_produto,categoria,quantidade,preco_unitario,total_venda,quantidade_estoque,localizacao_estoque,ano,mes,dia,dia da semana
+11/05/2025,"Dra, Mariana da Paz",BA,Leite,Alimentos,9,"1.610,73","14.496,57",116,C3-A2-B2,2025,5,11,1
+14/03/2025,Marcela Rezende,BA,Feijão,Alimentos,7,"2.406,94","16.848,58",131,B2-A1-C2,2025,3,14,6
+18/04/2025,"Srta, Brenda Cunha",BA,Quebra-Cabeça,Brinquedos,1,"2.192,52","2.192,52",224,C3-A2-B2,2025,4,18,6
+09/02/2025,Maria Clara Caldeira,BA,Fone de Ouvido,Eletrônicos,2,"2.008,93","4.017,86",201,B2-A1-C2,2025,2,9,1
+10/04/2025,João Felipe Cardoso,BA,Carrinho,Brinquedos,8,"624,63","4.997,04",170,D1-A2-B1,2025,4,10,5
+04/04/2025,Alana Peixoto,BA,Fone de Ouvido,Eletrônicos,7,"2.205,46","15.438,22",262,A2-B2-C1,2025,4,4,6
+27/12/2024,Pedro Lucas Barbosa,BA,Estante,Móveis,6,"997,47","5.984,82",63,A2-B2-C1,2024,12,27,6
+17/04/2025,Lorena Pereira,BA,Camiseta,Vestuário,6,"1.921,29","11.527,74",115,D1-A2-B1,2025,4,17,5
+21/12/2024,Davi Silva,BA,Tablet,Eletrônicos,7,"923,47","6.464,29",269,C3-A2-B2,2024,12,21,7
+22/02/2025,João Miguel Melo,BA,Arroz,Alimentos,6,"1.114,56","6.687,36",227,A1-B1-C1,2025,2,22,7
+07/03/2025,Gabriel Azevedo,BA,Jaqueta,Vestuário,9,"2.962,51","26.662,59",53,D1-A2-B1,2025,3,7,6
+28/02/2025,Renan Vieira,BA,Mesa,Móveis,9,"2.722,70","24.504,30",171,C3-A2-B2,2025,2,28,6
+26/12/2024,Luiz Otávio Silva,BA,Quebra-Cabeça,Brinquedos,4,"2.082,20","8.328,80",199,B2-A1-C2,2024,12,26,5
+06/05/2025,Benício Alves,BA,Camiseta,Vestuário,10,"2.302,59","23.025,90",217,A1-B1-C1,2025,5,6,3
+18/01/2025,Julia Cardoso,BA,Bola,Brinquedos,5,"457,74","2.288,70",226,D1-A2-B1,2025,1,18,7
+10/04/2025,Vicente Teixeira,BA,Fone de Ouvido,Eletrônicos,7,"2.258,73","15.811,11",261,A2-B2-C1,2025,4,10,5
+29/05/2025,Miguel Gonçalves,BA,Jogo de Tabuleiro,Brinquedos,9,"2.458,54","22.126,86",166,C3-A2-B2,2025,5,29,5
+03/04/2025,Matheus Cavalcanti,BA,Jogo de Tabuleiro,Brinquedos,8,"1.717,45","13.739,60",51,C3-A2-B2,2025,4,3,5
+28/01/2025,"Dr, Yuri da Rocha",BA,Mesa,Móveis,6,"2.273,92","13.643,52",105,A1-B1-C1,2025,1,28,3
+13/01/2025,Daniela Rocha,BA,Notebook,Eletrônicos,2,"2.691,05","5.382,10",22,A1-B1-C1,2025,1,13,2
+16/03/2025,Nathan Teixeira,BA,Tablet,Eletrônicos,8,"529,78","4.238,24",252,D1-A2-B1,2025,3,16,1
+31/03/2025,Lucca Melo,BA,Café,Alimentos,7,"1.682,66","11.778,62",293,B2-A1-C2,2025,3,31,2
+19/12/2024,"Sr, Benício da Cunha",BA,Monitor,Eletrônicos,10,"1.507,34","15.073,40",37,A1-B1-C1,2024,12,19,5
+30/03/2025,Rafaela Vieira,BA,Cadeira,Móveis,1,"2.660,26","2.660,26",295,C3-A2-B2,2025,3,30,1
+15/03/2025,Gabrielly Dias,BA,Leite,Alimentos,8,"2.756,99","22.055,92",137,D1-A2-B1,2025,3,15,7
+22/01/2025,Ian Pereira,BA,Fone de Ouvido,Eletrônicos,7,"464,28","3.249,96",130,D1-A2-B1,2025,1,22,4
+07/05/2025,Maria Clara Rodrigues,BA,Jogo de Tabuleiro,Brinquedos,3,"2.105,64","6.316,92",181,B2-A1-C2,2025,5,7,4
+24/04/2025,Daniela da Costa,BA,Bola,Brinquedos,8,"2.772,87","22.182,96",105,C3-A2-B2,2025,4,24,5
+29/12/2024,Heloísa da Rosa,BA,Feijão,Alimentos,6,"896,99","5.381,94",196,D1-A2-B1,2024,12,29,1
+04/02/2025,Bárbara Correia,BA,Calça Jeans,Vestuário,4,"1.182,29","4.729,16",233,B2-A1-C2,2025,2,4,3
+31/03/2025,Milena Cavalcanti,BA,Sofá,Móveis,3,"1.022,47","3.067,41",139,A2-B2-C1,2025,3,31,2
+20/02/2025,"Sra, Yasmin Freitas",BA,Sofá,Móveis,1,"1.157,85","1.157,85",181,A2-B2-C1,2025,2,20,5
+10/06/2025,Renan Nogueira,BA,Jogo de Tabuleiro,Brinquedos,10,"746,31","7.463,10",207,C3-A2-B2,2025,6,10,3
+27/05/2025,"Dr, André Cunha",BA,Leite,Alimentos,10,"1.081,36","10.813,60",256,D1-A2-B1,2025,5,27,3
+23/01/2025,Vitória Oliveira,BA,Feijão,Alimentos,8,"1.407,58","11.260,64",193,C3-A2-B2,2025,1,23,5
+27/12/2024,Thales Pereira,BA,Fone de Ouvido,Eletrônicos,9,"1.839,57","16.556,13",268,A2-B2-C1,2024,12,27,6
+02/02/2025,Cauê Dias,BA,Quebra-Cabeça,Brinquedos,1,"1.718,77","1.718,77",156,A2-B2-C1,2025,2,2,1
+28/02/2025,"Sra, Isabella Porto",MG,Arroz,Alimentos,7,"1.970,61","13.794,27",60,D1-A2-B1,2025,2,28,6
+13/04/2025,Luiza Barbosa,MG,Quebra-Cabeça,Brinquedos,7,"1.150,43","8.053,01",253,A1-B1-C1,2025,4,13,1
+05/05/2025,Daniel Nunes,MG,Feijão,Alimentos,3,"366,45","1.099,35",98,A1-B1-C1,2025,5,5,2
+01/04/2025,Ana Luiza Cavalcanti,MG,Boneca,Brinquedos,9,"2.134,06","19.206,54",251,B2-A1-C2,2025,4,1,3
+15/12/2024,Ryan Costa,MG,Camiseta,Vestuário,3,"2.208,48","6.625,44",148,C3-A2-B2,2024,12,15,1
+27/04/2025,Laís Pires,MG,Leite,Alimentos,4,"56,89","227,56",210,A1-B1-C1,2025,4,27,1
+27/05/2025,Davi Lucca Cardoso,MG,Smartphone,Eletrônicos,2,"40,59","81,18",108,B2-A1-C2,2025,5,27,3
+22/12/2024,Emanuelly Correia,MG,Smartphone,Eletrônicos,1,"840,27","840,27",110,B2-A1-C2,2024,12,22,1
+15/12/2024,Levi Correia,MG,Café,Alimentos,4,"1.069,52","4.278,08",188,A2-B2-C1,2024,12,15,1
+17/03/2025,Luna Porto,MG,Tênis,Vestuário,2,"2.607,24","5.214,48",250,C3-A2-B2,2025,3,17,2
+26/01/2025,Kaique Gonçalves,MG,Estante,Móveis,6,"2.597,60","15.585,60",152,A1-B1-C1,2025,1,26,1
+20/02/2025,"Dra, Emanuella Gonçalves",MG,Sofá,Móveis,1,"791,68","791,68",143,B2-A1-C2,2025,2,20,5
+03/01/2025,Luiz Henrique Pereira,MG,Smartphone,Eletrônicos,7,"1.498,73","10.491,11",199,A1-B1-C1,2025,1,3,6
+25/03/2025,Juan da Mata,MG,Calça Jeans,Vestuário,10,"1.588,87","15.888,70",146,D1-A2-B1,2025,3,25,3
+25/04/2025,Ana Júlia Melo,MG,Camiseta,Vestuário,6,"2.364,33","14.185,98",234,D1-A2-B1,2025,4,25,6
+24/04/2025,Thiago Sales,MG,Cadeira,Móveis,2,"2.146,10","4.292,20",161,D1-A2-B1,2025,4,24,5
+13/04/2025,Rafaela Silva,MG,Boneca,Brinquedos,3,"1.042,55","3.127,65",122,A2-B2-C1,2025,4,13,1
+23/05/2025,"Dr, Vitor Rezende",MG,Calça Jeans,Vestuário,2,"916,94","1.833,88",62,A1-B1-C1,2025,5,23,6
+04/02/2025,Heloísa Vieira,MG,Boneca,Brinquedos,9,"2.022,72","18.204,48",107,D1-A2-B1,2025,2,4,3
+18/05/2025,"Dr, Cauê Novaes",MG,Carrinho,Brinquedos,8,"363,87","2.910,96",106,A2-B2-C1,2025,5,18,1
+16/05/2025,Maria Vitória Gonçalves,MG,Tênis,Vestuário,4,"2.082,79","8.331,16",210,D1-A2-B1,2025,5,16,6
+20/01/2025,"Dr, Anthony Pires",PE,Jogo de Tabuleiro,Brinquedos,4,"2.972,09","11.888,36",140,D1-A2-B1,2025,1,20,2
+04/04/2025,"Dra, Catarina Castro",PE,Tablet,Eletrônicos,10,"2.262,74","22.627,40",245,C3-A2-B2,2025,4,4,6
+14/12/2024,Natália da Rosa,PE,Boné,Vestuário,8,"1.148,98","9.191,84",144,D1-A2-B1,2024,12,14,7
+07/03/2025,Clara Viana,PE,Monitor,Eletrônicos,10,"1.798,72","17.987,20",279,A2-B2-C1,2025,3,7,6
+25/12/2024,Isadora Ferreira,PE,Mesa,Móveis,9,"1.385,18","12.466,62",280,C3-A2-B2,2024,12,25,4
+13/01/2025,Marcelo Cardoso,PE,Cadeira,Móveis,2,"999,76","1.999,52",298,A2-B2-C1,2025,1,13,2
+15/03/2025,Matheus Peixoto,PE,Cama,Móveis,7,"1.692,65","11.848,55",277,D1-A2-B1,2025,3,15,7
+30/05/2025,Bárbara Nascimento,PE,Mesa,Móveis,5,"1.264,31","6.321,55",42,A2-B2-C1,2025,5,30,6
+04/05/2025,Rafael Jesus,PE,Carrinho,Brinquedos,3,"1.450,82","4.352,46",57,A2-B2-C1,2025,5,4,1
+28/05/2025,Luiz Gustavo Freitas,PE,Monitor,Eletrônicos,6,"126,50","759,00",223,B2-A1-C2,2025,5,28,4
+27/05/2025,Calebe Araújo,PE,Arroz,Alimentos,9,"1.955,20","17.596,80",44,B2-A1-C2,2025,5,27,3
+15/02/2025,Sofia Monteiro,PE,Boné,Vestuário,7,"2.458,52","17.209,64",140,B2-A1-C2,2025,2,15,7
+22/12/2024,Nicole Fogaça,PE,Arroz,Alimentos,10,"1.101,76","11.017,60",227,B2-A1-C2,2024,12,22,1
+05/02/2025,Bernardo Gomes,PE,Bola,Brinquedos,7,"1.653,32","11.573,24",292,A1-B1-C1,2025,2,5,4
+06/04/2025,Maitê Souza,PE,Bola,Brinquedos,2,"510,08","1.020,16",240,D1-A2-B1,2025,4,6,1
+21/02/2025,Erick Silveira,PE,Café,Alimentos,10,"1.869,88","18.698,80",95,B2-A1-C2,2025,2,21,6
+09/05/2025,Paulo Mendes,PE,Jogo de Tabuleiro,Brinquedos,4,"2.032,29","8.129,16",293,B2-A1-C2,2025,5,9,6
+19/05/2025,Ana Clara Costela,PE,Estante,Móveis,9,"589,42","5.304,78",71,A2-B2-C1,2025,5,19,2
+10/01/2025,Lucca Nascimento,PE,Quebra-Cabeça,Brinquedos,2,"2.631,91","5.263,82",174,C3-A2-B2,2025,1,10,6
+01/05/2025,Ana Luiza Castro,PE,Leite,Alimentos,5,"220,11","1.100,55",110,B2-A1-C2,2025,5,1,5
+02/06/2025,Sofia Lima,PE,Mesa,Móveis,8,"2.263,35","18.106,80",122,A2-B2-C1,2025,6,2,2
+24/05/2025,Luiza Carvalho,PE,Smartphone,Eletrônicos,10,"2.350,70","23.507,00",227,A2-B2-C1,2025,5,24,7
+31/05/2025,"Sr, João Felipe Castro",PE,Cadeira,Móveis,7,"1.493,85","10.456,95",249,A1-B1-C1,2025,5,31,7
+22/02/2025,Augusto Aragão,PE,Pão,Alimentos,6,"2.889,42","17.336,52",133,B2-A1-C2,2025,2,22,7
+28/12/2024,Matheus Caldeira,PE,Tênis,Vestuário,1,"2.895,27","2.895,27",157,B2-A1-C2,2024,12,28,7
+25/01/2025,Gabrielly Freitas,PE,Calça Jeans,Vestuário,10,"116,63","1.166,30",208,B2-A1-C2,2025,1,25,7
+19/04/2025,Nathan Mendes,PR,Café,Alimentos,2,"1.793,52","3.587,04",280,A1-B1-C1,2025,4,19,7
+13/01/2025,Pedro das Neves,PR,Jogo de Tabuleiro,Brinquedos,8,"2.391,07","19.128,56",81,D1-A2-B1,2025,1,13,2
+13/03/2025,Rafael Alves,PR,Pão,Alimentos,8,"2.277,06","18.216,48",179,C3-A2-B2,2025,3,13,5
+18/01/2025,"Dr, Caio Silveira",PR,Calça Jeans,Vestuário,4,"2.912,84","11.651,36",280,C3-A2-B2,2025,1,18,7
+27/01/2025,Lívia Caldeira,PR,Camiseta,Vestuário,7,"104,92","734,44",184,A1-B1-C1,2025,1,27,2
+22/04/2025,Gustavo Henrique Vieira,PR,Carrinho,Brinquedos,5,"82,28","411,40",59,D1-A2-B1,2025,4,22,3
+20/05/2025,Caroline da Paz,PR,Feijão,Alimentos,2,"2.985,62","5.971,24",200,A1-B1-C1,2025,5,20,3
+10/03/2025,Vinicius Fernandes,PR,Boneca,Brinquedos,1,"841,55","841,55",222,A2-B2-C1,2025,3,10,2
+12/04/2025,"Sr, Arthur Silveira",PR,Carrinho,Brinquedos,10,"2.094,24","20.942,40",289,A2-B2-C1,2025,4,12,7
+22/12/2024,João Felipe Moura,PR,Feijão,Alimentos,1,"207,49","207,49",74,A1-B1-C1,2024,12,22,1
+12/03/2025,Sarah Farias,PR,Bola,Brinquedos,2,"801,95","1.603,90",18,D1-A2-B1,2025,3,12,4
+29/05/2025,Bianca Fogaça,PR,Leite,Alimentos,9,"2.371,99","21.347,91",90,D1-A2-B1,2025,5,29,5
+11/04/2025,"Dr, Thales da Mata",PR,Notebook,Eletrônicos,7,"2.220,94","15.546,58",270,A2-B2-C1,2025,4,11,6
+10/05/2025,"Sra, Gabriela Moreira",PR,Jogo de Tabuleiro,Brinquedos,10,"1.462,31","14.623,10",240,A1-B1-C1,2025,5,10,7
+07/06/2025,Guilherme da Rocha,PR,Sofá,Móveis,2,"370,94","741,88",181,A1-B1-C1,2025,6,7,7
+21/02/2025,Carolina Martins,PR,Tênis,Vestuário,3,"51,35","154,05",169,D1-A2-B1,2025,2,21,6
+05/05/2025,"Srta, Alice Martins",PR,Jaqueta,Vestuário,8,"1.872,52","14.980,16",75,C3-A2-B2,2025,5,5,2
+28/03/2025,Cecília Duarte,PR,Monitor,Eletrônicos,10,"1.452,23","14.522,30",54,B2-A1-C2,2025,3,28,6
+18/03/2025,Lucca Castro,PR,Boné,Vestuário,4,"22,36","89,44",53,B2-A1-C2,2025,3,18,3
+30/12/2024,Nicolas Souza,PR,Sofá,Móveis,1,"2.319,21","2.319,21",169,B2-A1-C2,2024,12,30,2
+21/02/2025,Pedro Henrique das Neves,PR,Camiseta,Vestuário,5,"182,58","912,90",122,D1-A2-B1,2025,2,21,6
+13/04/2025,Ian Santos,PR,Mesa,Móveis,3,"2.495,10","7.485,30",277,B2-A1-C2,2025,4,13,1
+25/12/2024,Raquel Novaes,PR,Boneca,Brinquedos,10,"984,74","9.847,40",122,A2-B2-C1,2024,12,25,4
+04/03/2025,"Dr, João Miguel Monteiro",PR,Tablet,Eletrônicos,10,"1.674,70","16.747,00",90,A1-B1-C1,2025,3,4,3
+12/02/2025,Vitor Gabriel da Paz,PR,Jaqueta,Vestuário,6,"892,65","5.355,90",139,B2-A1-C2,2025,2,12,4
+29/03/2025,"Dr, Ryan Santos",PR,Leite,Alimentos,5,"637,17","3.185,85",63,A1-B1-C1,2025,3,29,7
+23/01/2025,Eduardo Alves,PR,Pão,Alimentos,6,"1.558,15","9.348,90",169,A2-B2-C1,2025,1,23,5
+14/03/2025,Ana Julia Gonçalves,PR,Jaqueta,Vestuário,7,"558,37","3.908,59",289,A2-B2-C1,2025,3,14,6
+08/06/2025,Emanuel Costela,RJ,Notebook,Eletrônicos,8,"481,94","3.855,52",112,B2-A1-C2,2025,6,8,1
+02/02/2025,Alícia da Cunha,RJ,Monitor,Eletrônicos,8,"1.751,46","14.011,68",97,D1-A2-B1,2025,2,2,1
+22/02/2025,Maria Fernanda Jesus,RJ,Fone de Ouvido,Eletrônicos,4,"2.422,84","9.691,36",31,A2-B2-C1,2025,2,22,7
+23/02/2025,Matheus Viana,RJ,Jaqueta,Vestuário,8,"1.905,04","15.240,32",62,B2-A1-C2,2025,2,23,1
+28/04/2025,Maria Sophia Alves,RJ,Tênis,Vestuário,6,"2.724,40","16.346,40",215,D1-A2-B1,2025,4,28,2
+26/05/2025,Vitor Gabriel Moraes,RJ,Quebra-Cabeça,Brinquedos,1,"2.524,68","2.524,68",261,C3-A2-B2,2025,5,26,2
+13/12/2024,João Vitor da Costa,RJ,Fone de Ouvido,Eletrônicos,7,"215,83","1.510,81",246,D1-A2-B1,2024,12,13,6
+10/03/2025,"Dr, Henrique Pereira",RJ,Notebook,Eletrônicos,9,"2.897,17","26.074,53",197,C3-A2-B2,2025,3,10,2
+03/03/2025,Stephany Almeida,RJ,Camiseta,Vestuário,2,"890,08","1.780,16",138,D1-A2-B1,2025,3,3,2
+15/12/2024,Yuri Almeida,RJ,Arroz,Alimentos,6,"1.141,24","6.847,44",266,C3-A2-B2,2024,12,15,1
+22/02/2025,Luiz Otávio Cavalcanti,RJ,Mesa,Móveis,7,"1.826,29","12.784,03",24,A1-B1-C1,2025,2,22,7
+23/01/2025,André Sales,RJ,Mesa,Móveis,9,"1.570,37","14.133,33",231,A2-B2-C1,2025,1,23,5
+02/03/2025,"Sra, Lívia Lopes",RJ,Bola,Brinquedos,5,"2.533,86","12.669,30",180,D1-A2-B1,2025,3,2,1
+05/04/2025,Giovanna Costa,RJ,Cadeira,Móveis,4,"2.161,24","8.644,96",45,D1-A2-B1,2025,4,5,7
+18/04/2025,Francisco Monteiro,RJ,Notebook,Eletrônicos,8,"781,16","6.249,28",196,C3-A2-B2,2025,4,18,6
+19/12/2024,"Dra, Pietra Souza",RJ,Tênis,Vestuário,3,"697,56","2.092,68",179,A1-B1-C1,2024,12,19,5
+12/12/2024,Fernando Nascimento,RJ,Monitor,Eletrônicos,2,"294,04","588,08",292,D1-A2-B1,2024,12,12,5
+03/05/2025,Luigi Pires,RJ,Notebook,Eletrônicos,10,"520,70","5.207,00",125,D1-A2-B1,2025,5,3,7
+15/02/2025,Ana Beatriz Martins,RJ,Café,Alimentos,9,"2.905,37","26.148,33",61,B2-A1-C2,2025,2,15,7
+12/04/2025,Alexandre Novaes,RJ,Quebra-Cabeça,Brinquedos,8,"1.574,21","12.593,68",207,A2-B2-C1,2025,4,12,7
+21/02/2025,"Sra, Maria Alice das Neves",RJ,Quebra-Cabeça,Brinquedos,4,"981,58","3.926,32",137,A2-B2-C1,2025,2,21,6
+08/02/2025,"Dra, Lívia Ferreira",RJ,Smartphone,Eletrônicos,4,"2.260,45","9.041,80",48,D1-A2-B1,2025,2,8,7
+14/02/2025,Brenda Monteiro,RS,Tablet,Eletrônicos,3,"390,42","1.171,26",112,B2-A1-C2,2025,2,14,6
+18/02/2025,Davi Luiz da Cunha,RS,Café,Alimentos,2,"1.189,63","2.379,26",109,B2-A1-C2,2025,2,18,3
+02/06/2025,Camila Cardoso,RS,Café,Alimentos,1,"1.733,16","1.733,16",161,A1-B1-C1,2025,6,2,2
+09/01/2025,Vitor Ribeiro,RS,Leite,Alimentos,5,"1.070,30","5.351,50",159,D1-A2-B1,2025,1,9,5
+05/01/2025,Thiago Souza,RS,Cadeira,Móveis,3,"2.806,52","8.419,56",58,A1-B1-C1,2025,1,5,1
+04/02/2025,Eduarda Teixeira,RS,Monitor,Eletrônicos,4,"2.315,37","9.261,48",197,C3-A2-B2,2025,2,4,3
+08/05/2025,Otávio Duarte,RS,Leite,Alimentos,1,"2.541,62","2.541,62",199,D1-A2-B1,2025,5,8,5
+06/02/2025,Vitor Gabriel Aragão,RS,Boneca,Brinquedos,9,"610,97","5.498,73",283,C3-A2-B2,2025,2,6,5
+12/02/2025,Emanuella Alves,RS,Jogo de Tabuleiro,Brinquedos,8,"1.250,26","10.002,08",274,B2-A1-C2,2025,2,12,4
+16/12/2024,Antônio Gonçalves,RS,Pão,Alimentos,3,"398,59","1.195,77",273,A2-B2-C1,2024,12,16,2
+18/03/2025,Pedro Lucas Cunha,RS,Tênis,Vestuário,5,"692,95","3.464,75",44,A1-B1-C1,2025,3,18,3
+27/12/2024,João Pedro Alves,RS,Jaqueta,Vestuário,9,"1.770,78","15.937,02",211,C3-A2-B2,2024,12,27,6
+24/02/2025,Mirella da Cruz,RS,Smartphone,Eletrônicos,3,"1.217,57","3.652,71",224,C3-A2-B2,2025,2,24,2
+10/06/2025,Giovanna Caldeira,RS,Cama,Móveis,9,"934,59","8.411,31",62,A1-B1-C1,2025,6,10,3
+20/12/2024,Lorena Caldeira,RS,Fone de Ouvido,Eletrônicos,10,"162,51","1.625,10",50,D1-A2-B1,2024,12,20,6
+19/12/2024,Carolina Araújo,RS,Cadeira,Móveis,9,"1.811,24","16.301,16",24,A1-B1-C1,2024,12,19,5
+17/12/2024,"Dra, Brenda Gonçalves",RS,Smartphone,Eletrônicos,10,"34,15","341,50",145,A2-B2-C1,2024,12,17,3
+19/02/2025,Helena Dias,RS,Bola,Brinquedos,1,"505,04","505,04",72,A2-B2-C1,2025,2,19,4
+29/05/2025,Heitor Cardoso,RS,Tablet,Eletrônicos,7,"384,78","2.693,46",172,A1-B1-C1,2025,5,29,5
+01/06/2025,Emanuelly Moreira,RS,Cadeira,Móveis,4,"2.664,66","10.658,64",50,A2-B2-C1,2025,6,1,1
+09/05/2025,Amanda Barbosa,RS,Tênis,Vestuário,10,"2.368,75","23.687,50",37,C3-A2-B2,2025,5,9,6
+21/03/2025,Lucca Oliveira,RS,Arroz,Alimentos,10,"2.557,50","25.575,00",144,D1-A2-B1,2025,3,21,6
+12/01/2025,Vitor Hugo da Conceição,RS,Cadeira,Móveis,5,"1.835,12","9.175,60",71,A1-B1-C1,2025,1,12,1
+30/03/2025,Matheus Melo,RS,Jogo de Tabuleiro,Brinquedos,4,"418,23","1.672,92",225,C3-A2-B2,2025,3,30,1
+26/02/2025,Alexia Viana,RS,Jaqueta,Vestuário,7,"384,15","2.689,05",72,B2-A1-C2,2025,2,26,4
+24/12/2024,"Srta, Raquel Moura",RS,Camiseta,Vestuário,5,"1.132,81","5.664,05",240,B2-A1-C2,2024,12,24,3
+30/03/2025,Arthur Peixoto,RS,Camiseta,Vestuário,4,"1.886,77","7.547,08",61,B2-A1-C2,2025,3,30,1
+13/04/2025,Lorena Vieira,RS,Boneca,Brinquedos,9,"491,42","4.422,78",38,A2-B2-C1,2025,4,13,1
+24/01/2025,Valentina Ramos,RS,Camiseta,Vestuário,9,"607,82","5.470,38",117,D1-A2-B1,2025,1,24,6
+01/05/2025,João Lucas Ribeiro,RS,Cama,Móveis,1,"1.350,68","1.350,68",240,A2-B2-C1,2025,5,1,5
+12/04/2025,Benjamin Duarte,RS,Boné,Vestuário,8,"976,21","7.809,68",268,D1-A2-B1,2025,4,12,7
+11/01/2025,"Sra, Ana Laura da Conceição",RS,Camiseta,Vestuário,1,"1.754,65","1.754,65",207,A2-B2-C1,2025,1,11,7
+25/01/2025,Diogo Cavalcanti,RS,Boné,Vestuário,8,"2.378,06","19.024,48",189,C3-A2-B2,2025,1,25,7
+06/06/2025,Stephany Rodrigues,RS,Cadeira,Móveis,8,"1.072,44","8.579,52",11,A1-B1-C1,2025,6,6,6
+21/12/2024,Benjamin Alves,RS,Jogo de Tabuleiro,Brinquedos,8,"1.022,96","8.183,68",229,B2-A1-C2,2024,12,21,7
+06/01/2025,Ryan Moraes,RS,Sofá,Móveis,4,"819,91","3.279,64",212,B2-A1-C2,2025,1,6,2
+19/01/2025,Rebeca Moreira,RS,Mesa,Móveis,6,"753,50","4.521,00",157,D1-A2-B1,2025,1,19,1
+18/01/2025,Mirella Gonçalves,RS,Boneca,Brinquedos,1,"1.574,61","1.574,61",261,A1-B1-C1,2025,1,18,7
+23/01/2025,"Dr, João Miguel Oliveira",SP,Bola,Brinquedos,8,"235,34","1.882,72",198,A1-B1-C1,2025,1,23,5
+07/04/2025,"Sr, Breno Farias",SP,Monitor,Eletrônicos,2,"1.489,84","2.979,68",30,A1-B1-C1,2025,4,7,2
+20/05/2025,Maitê da Cruz,SP,Calça Jeans,Vestuário,1,"1.263,00","1.263,00",267,A1-B1-C1,2025,5,20,3
+25/12/2024,Sofia Mendes,SP,Jaqueta,Vestuário,5,"234,04","1.170,20",286,A1-B1-C1,2024,12,25,4
+26/04/2025,João Miguel Pires,SP,Leite,Alimentos,2,"2.625,24","5.250,48",68,A1-B1-C1,2025,4,26,7
+23/12/2024,Lucas Teixeira,SP,Sofá,Móveis,10,"1.058,38","10.583,80",64,C3-A2-B2,2024,12,23,2
+01/06/2025,Maria Eduarda da Costa,SP,Calça Jeans,Vestuário,2,"603,90","1.207,80",140,D1-A2-B1,2025,6,1,1
+19/01/2025,João Vitor da Mota,SP,Cama,Móveis,7,"588,56","4.119,92",30,C3-A2-B2,2025,1,19,1
+17/02/2025,Caio Moura,SP,Cadeira,Móveis,7,"1.737,15","12.160,05",176,A1-B1-C1,2025,2,17,2
+30/04/2025,André Dias,SP,Quebra-Cabeça,Brinquedos,8,"192,91","1.543,28",23,A2-B2-C1,2025,4,30,4
+13/01/2025,João Felipe Nunes,SP,Estante,Móveis,7,"197,93","1.385,51",101,C3-A2-B2,2025,1,13,2
+17/04/2025,"Dra, Marina Cavalcanti",SP,Boneca,Brinquedos,7,"593,30","4.153,10",90,A1-B1-C1,2025,4,17,5
+02/02/2025,Alexandre Sales,SP,Carrinho,Brinquedos,3,"2.256,13","6.768,39",11,A1-B1-C1,2025,2,2,1
+17/01/2025,Renan da Paz,SP,Jogo de Tabuleiro,Brinquedos,1,"601,34","601,34",236,C3-A2-B2,2025,1,17,6
+06/05/2025,Kaique Peixoto,SP,Boné,Vestuário,3,"2.759,63","8.278,89",14,B2-A1-C2,2025,5,6,3
+09/03/2025,Cauã da Luz,SP,Pão,Alimentos,3,"1.257,06","3.771,18",264,B2-A1-C2,2025,3,9,1
+04/01/2025,Maria Julia Almeida,SP,Notebook,Eletrônicos,10,"1.492,20","14.922,00",216,A1-B1-C1,2025,1,4,7
+02/04/2025,Bárbara Correia,SP,Arroz,Alimentos,5,"2.043,33","10.216,65",246,B2-A1-C2,2025,4,2,4
+27/01/2025,Thiago Azevedo,SP,Cadeira,Móveis,5,"721,18","3.605,90",234,A2-B2-C1,2025,1,27,2
+12/01/2025,"Dr, Caio Viana",SP,Feijão,Alimentos,4,"1.520,80","6.083,20",242,A2-B2-C1,2025,1,12,1
+27/01/2025,"Dr, Lucas Sales",SP,Boné,Vestuário,9,"341,75","3.075,75",243,A2-B2-C1,2025,1,27,2
+10/05/2025,Levi Gomes,SP,Leite,Alimentos,6,"523,59","3.141,54",242,A1-B1-C1,2025,5,10,7
+19/01/2025,Elisa Ramos,SP,Tênis,Vestuário,10,"2.175,89","21.758,90",234,A1-B1-C1,2025,1,19,1
+05/04/2025,Pedro Sales,SP,Café,Alimentos,5,"2.426,59","12.132,95",135,A2-B2-C1,2025,4,5,7
+17/12/2024,Catarina Costa,SP,Pão,Alimentos,5,"158,02","790,10",132,A2-B2-C1,2024,12,17,3
+15/02/2025,"Sr, Igor da Mota",SP,Jaqueta,Vestuário,7,"1.733,91","12.137,37",264,A1-B1-C1,2025,2,15,7
+28/03/2025,Amanda Costela,SP,Leite,Alimentos,6,"1.224,69","7.348,14",153,D1-A2-B1,2025,3,28,6
+24/02/2025,Maria Vitória Aragão,SP,Arroz,Alimentos,8,"1.491,66","11.933,28",196,B2-A1-C2,2025,2,24,2
